@@ -14,11 +14,11 @@ Qui est le plus fort ? Quelle place ont les Pokémons légendaires dans notre mo
 
 ## Instructions pour executer les scripts du notebook
 
-Créer un dossier avec:
+Créer un dossier avec :
 - Le notebook Jupyter (pokemon-stats.ipynb)
 - Le dataset (data.csv)
 
-Installer les dépendances:
+Installer les dépendances :
 - numpy
 - pandas
 - scipy
