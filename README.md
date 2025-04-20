@@ -12,6 +12,11 @@ Tel le professeur Chen, nous étudions les Pokémons. Pour ce faire, nous créon
 
 Qui est le plus fort ? Quelle place ont les Pokémons légendaires dans notre monde ? Nous saurons répondre à ces questions.
 
+## Collaborateurs
+
+- Nicolas BUSQUET
+- Manon ROULEAU
+
 ## Instructions pour executer les scripts du notebook
 
 Créer un dossier avec :
@@ -21,9 +26,7 @@ Créer un dossier avec :
 Installer les dépendances :
 - numpy
 - pandas
-- scipy
 - matplotlib.pyplot
 - seaborn
-- plotly.express
 
 Le notebook devrait fonctionner à merveille !
